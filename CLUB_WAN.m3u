@@ -650,7 +650,7 @@ https://anbalancer.express.com.ar/live/c1eds/AXN_HD/SA_DASH_cipix/AXN_HD.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/axn.json
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/amc.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/By7GRw7/axn.png" tvg-group="CINE Y SERIES", AXN 2
 https://anedgesgo.express.com.ar/live/c1eds/AMC/SA_DASH_cipix/AMC.mpd
 
